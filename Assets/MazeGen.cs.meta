@@ -1,0 +1,24 @@
+fileFormatVersion: 2
+guid: a5f346a31425340a0b78fac731483898
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - mazeCell: {fileID: 1983717001753644869, guid: 593afa3abe584400aa77a51eb71bc693, type: 3}
+  - mazeWall: {fileID: 6542198855486181584, guid: 6e15c158f5a6a4bc099f8434ace6f826, type: 3}
+  - widthSettings: {instanceID: 0}
+  - heightSettings: {instanceID: 0}
+  - saveName: {instanceID: 0}
+  - saveButton: {instanceID: 0}
+  - errorText: {instanceID: 0}
+  - faster: {instanceID: 0}
+  - slower: {instanceID: 0}
+  - regenerate: {instanceID: 0}
+  - zoomIn: {instanceID: 0}
+  - zoomOut: {instanceID: 0}
+  - mazeCam: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
